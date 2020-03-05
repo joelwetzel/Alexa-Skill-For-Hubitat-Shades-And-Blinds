@@ -13,4 +13,4 @@ To install it, you'll want to follow the instructions here:  https://github.com/
 
 But use my versions of AlexaHandler.cs and AlexaResponse.cs, instead of the versions in Amazon's sample code.
 
-You'll also need to add in your own IDs from your Hubitat hub's Maker API endpoints.  You can find them in the page for the Maker API app.
+You'll also need to add in your own IDs from your own Hubitat hub's Maker API endpoints.  You can find them in the page for the Maker API app.
