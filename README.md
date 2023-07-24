@@ -1,5 +1,7 @@
 # Alexa Skill For Hubitat Shades And Blinds
 
+## NOTE: THIS IS NOW DEPRECATED AND SHOULD NOT BE USED ANYMORE.  HUBITAT HAS ADDED SHADES AND BLINDS TO THEIR OUT-OF-THE-BOX ALEXA INTEGRATION.  USE THAT INSTEAD.
+
 An Alexa skill to interact with a Hubitat smarthome hub, and expose shades and blinds to Alexa.  (Because the native Hubitat Alexa skill does not yet support shades and blinds.)  It uses the Hubitat Maker API to interact with Hubitat.
 
 This is really just temporary proof-of-concept code, and useful until Hubitat adds support for the WindowShade capability to their own Alexa skill.
